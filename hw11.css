@@ -1,0 +1,70 @@
+body{
+	padding: 4px;
+	margin: 2px;
+
+}
+header{
+	background: #964941;
+	background-image: url('C:/Users/DELL/Desktop/images/flywheel.jpg');
+	background-size: 100%;
+	
+
+}
+h1{
+	color: #ffffff;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 40px;
+	height: 10px;
+	padding: 10px;
+}
+nav a{
+	display: inline-block;
+    margin: 20px 70px;
+	width: 12%;
+	text-align: center;
+	text-decoration: none;
+	border: 1px solid #ffffff;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-o-border-radius: 4px;
+	-ms-border-radius: 4px;
+	padding: 10px;
+	font-size: 25px;
+	color: #000000;
+
+	}
+.active{
+	background: #ffffff;
+	color: #000000;
+    }
+.left{
+        background: #397f35;
+        display: inline-block;
+        height: 500px;
+        width: 23%
+    	
+    }
+.right{
+    	float: right;
+    	display: inline-block;
+    	background: #ffffff;
+    	width: 72%;
+    	margin: 10px 20px 10px 5px;
+
+
+    }
+    
+h2{
+	color: #000000;
+	text-transform: uppercase;
+}
+img{
+	border: 1px solid #000000;
+	
+	width: 70%;
+	margin: 18px auto;
+	display: block;
+
+}

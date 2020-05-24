@@ -1,0 +1,17 @@
+section{
+	box-sizing: border-box;
+	height:80px;
+	width:20%;
+	background:yellow;
+	transition-property: color,width,background,border-radius;
+	transition-duration:.5s;
+	transition-timing-function: linear;
+	transition-delay:.5s;
+}
+section:hover{
+	color:red;
+	width:350px;
+	background:blue;
+	border-radius:50%;
+
+}
